@@ -1,6 +1,6 @@
 # project
 
-Governance documents and resources regarding the ingraind project
+Governance documents and resources regarding the foniod project
 
  * [Guide for contributors](./CONTRIBUTING.md)
  * [License](./LICENSE)
